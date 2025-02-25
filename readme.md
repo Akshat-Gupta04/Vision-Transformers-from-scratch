@@ -17,8 +17,7 @@ The Vision Transformer (ViT) in this project:
 The architecture is designed to be modular so that it can be easily modified or extended.
 
 ## Tested on MNIST
-
-**Dataset Link :** [text](https://www.kaggle.com/datasets/rahulkumarroy92/digit-recognizer)
+ [Dataset Link](https://www.kaggle.com/datasets/rahulkumarroy92/digit-recognizer)
 
 The model has been evaluated using the MNIST dataset for handwritten digit classification (10 classes). The MNIST images are 28×28 grayscale images. The dataset splits are handled using custom dataset classes:
 - `MNISTTrainDataset`
