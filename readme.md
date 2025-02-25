@@ -52,5 +52,8 @@ The project requires Python 3 and the following packages:
 Install the dependencies using pip:
 
 ```bash
-pip install torch torchvision numpy pandas matplotlib tqdm# Vision Transformer for MNIST Image Classification
+pip install torch torchvision numpy pandas matplotlib tqdm
+
+
+# Vision Transformer for MNIST Image Classification
 
